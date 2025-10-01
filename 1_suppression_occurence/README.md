@@ -3,7 +3,7 @@
 
 # Fonctionnalités
 - Création de Liste : Permet de construire une liste chaînée simple.
-- Suppression d'Occurrences : Supprime de manière itérative tous les nœuds dont la valeur correspond à une valeur donnée [1].
+- Suppression d'Occurrences : Supprime de manière itérative tous les nœuds dont la valeur correspond à une valeur donnée.
 - Affichage de Liste : Affiche le contenu actuel de la liste chaînée.
 
 # Comment Compiler et Exécuter
