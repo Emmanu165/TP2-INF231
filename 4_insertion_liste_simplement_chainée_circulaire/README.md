@@ -23,4 +23,4 @@ Valeur : 8
 Valeur : 3
 -  Afficher
 Liste affichée : 5-> 8-> 2-> 3
-liste_circulaire.c → code source principal
+InsertList_SimplChaine_Circulaire.c → code source principal (avec sous programme)
