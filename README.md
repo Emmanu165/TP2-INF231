@@ -1,7 +1,7 @@
 ## EXERCICE INF231: MANIPULATION DES LISTE SIMPLEMENT CHAÎNÉE, DOUBLEMENT CHAÎNÉE ET TRIÉE EN C
 
 DESCRIPTION:
-Ce devoir a our objectif de traiter les différentes tâches exercées sur les listes en C
+Ce devoir a Pour objectif de traiter les différentes tâches exercées sur les listes en C
 
 FONCTIONNALITÉS:
 - Lire un élément et supprimer toutes les occurences dans la liste
